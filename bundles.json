@@ -17,6 +17,22 @@
             ]
         },
                         {
+            "key": "Mounts/mount_offset.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+                                {
+            "key": "Mounts/mount_offset_fde.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+                        {
             "key": "Lights/m600.bundle",
             "dependencyKeys": [
                 "shaders",

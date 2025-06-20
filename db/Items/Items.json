@@ -147,6 +147,166 @@
 			}
 		]
 	},
+		"6855af4552c03724cc5956b4": {
+		"itemTplToClone": "6269545d0e57f218e4548ca2",
+		"parentId": "55818b224bdc2dde698b456f",
+		"handbookParentId": "5b5f755f86f77447ec5d770e",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Mounts/mount_offset.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"Weight": 0.3,
+			"Ergonomics": 0,
+			"Slots": [
+				{
+					"_id": "6835c3ad38a064dab37fc675",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_tactical",
+					"_parent": "6835a63bdbc98d9bc34e025b",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"685485b931d3c29457734a76",
+									"68554f4a6661dbd45eecc388"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Arisaka Side Scout Mount M-Lok - Black",
+				"shortName": "Side",
+				"description": ""
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_mount_000",
+			"mod_mount_001",
+			"mod_mount_003"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 9000,
+		"handbookPriceRoubles": 9000,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+		"6855afa723e132bdea932a41": {
+		"itemTplToClone": "6269545d0e57f218e4548ca2",
+		"parentId": "55818b224bdc2dde698b456f",
+		"handbookParentId": "5b5f755f86f77447ec5d770e",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Mounts/mount_offset_fde.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"Weight": 0.3,
+			"Ergonomics": 0,
+			"Slots": [
+				{
+					"_id": "6835c3ad38a064dab37fc675",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_tactical",
+					"_parent": "6835a63bdbc98d9bc34e025b",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"685485b931d3c29457734a76",
+									"68554f4a6661dbd45eecc388"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Arisaka Side Scout Mount M-Lok - FDE",
+				"shortName": "Side",
+				"description": ""
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_mount_000",
+			"mod_mount_001",
+			"mod_mount_003"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 9000,
+		"handbookPriceRoubles": 9000,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	
+
+
+
+
+
+
+
+
+
+
+
 		"685485b931d3c29457734a76": {
 		"itemTplToClone": "626becf9582c3e319310b837",
 		"parentId": "55818b164bdc2ddc698b456c",
