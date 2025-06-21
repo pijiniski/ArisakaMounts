@@ -32,7 +32,7 @@
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
-                        {
+                                  {
             "key": "Lights/m600.bundle",
             "dependencyKeys": [
                 "shaders",

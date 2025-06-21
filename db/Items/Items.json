@@ -147,7 +147,7 @@
 			}
 		]
 	},
-		"6855af4552c03724cc5956b4": {
+	"6855af4552c03724cc5956b4": {
 		"itemTplToClone": "6269545d0e57f218e4548ca2",
 		"parentId": "55818b224bdc2dde698b456f",
 		"handbookParentId": "5b5f755f86f77447ec5d770e",
@@ -221,7 +221,7 @@
 			}
 		]
 	},
-		"6855afa723e132bdea932a41": {
+	"6855afa723e132bdea932a41": {
 		"itemTplToClone": "6269545d0e57f218e4548ca2",
 		"parentId": "55818b224bdc2dde698b456f",
 		"handbookParentId": "5b5f755f86f77447ec5d770e",
@@ -295,18 +295,6 @@
 			}
 		]
 	},
-	
-
-
-
-
-
-
-
-
-
-
-
 		"685485b931d3c29457734a76": {
 		"itemTplToClone": "626becf9582c3e319310b837",
 		"parentId": "55818b164bdc2ddc698b456c",
@@ -358,7 +346,7 @@
 			}
 		]
 	},
-			"68554f4a6661dbd45eecc388": {
+	"68554f4a6661dbd45eecc388": {
 		"itemTplToClone": "626becf9582c3e319310b837",
 		"parentId": "55818b164bdc2ddc698b456c",
 		"handbookParentId": "5b5f73ab86f774094242f195",
